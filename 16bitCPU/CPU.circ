@@ -985,6 +985,10 @@
     <comp lib="6" loc="(2540,1600)" name="Text">
       <a name="text" val="External Data Bus"/>
     </comp>
+    <comp lib="6" loc="(3700,1010)" name="Text">
+      <a name="font" val="SansSerif plain 12"/>
+      <a name="text" val="ir we"/>
+    </comp>
     <comp lib="6" loc="(3700,1035)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="text" val="ir oe"/>
@@ -992,10 +996,6 @@
     <comp lib="6" loc="(3700,870)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="text" val="pc_oe"/>
-    </comp>
-    <comp lib="6" loc="(3702,1013)" name="Text">
-      <a name="font" val="SansSerif plain 12"/>
-      <a name="text" val="ir we"/>
     </comp>
     <comp lib="6" loc="(3705,1050)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
@@ -10932,17 +10932,21 @@
       <a name="font" val="SansSerif plain 12"/>
       <a name="text" val="pc_oe"/>
     </comp>
+    <comp lib="6" loc="(1430,520)" name="Text">
+      <a name="font" val="SansSerif plain 12"/>
+      <a name="text" val="ir we"/>
+    </comp>
     <comp lib="6" loc="(1430,545)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="text" val="ir oe"/>
     </comp>
-    <comp lib="6" loc="(1432,523)" name="Text">
-      <a name="font" val="SansSerif plain 12"/>
-      <a name="text" val="ir we"/>
-    </comp>
     <comp lib="6" loc="(1435,440)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="text" val="ram oe"/>
+    </comp>
+    <comp lib="6" loc="(1435,480)" name="Text">
+      <a name="font" val="SansSerif plain 12"/>
+      <a name="text" val="mbr_ibe"/>
     </comp>
     <comp lib="6" loc="(1435,500)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
@@ -10959,10 +10963,6 @@
     <comp lib="6" loc="(1435,600)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="text" val="ALU oe"/>
-    </comp>
-    <comp lib="6" loc="(1438,482)" name="Text">
-      <a name="font" val="SansSerif plain 12"/>
-      <a name="text" val="mbr_ibe"/>
     </comp>
     <comp lib="6" loc="(1440,425)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
@@ -10992,98 +10992,98 @@
       <a name="font" val="SansSerif plain 12"/>
       <a name="text" val="Output register we"/>
     </comp>
-    <comp lib="6" loc="(1815,893)" name="Text">
+    <comp lib="6" loc="(1815,890)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="text" val="Register A"/>
     </comp>
-    <comp lib="6" loc="(1833,1283)" name="Text">
-      <a name="font" val="SansSerif plain 12"/>
-      <a name="text" val="ALU"/>
-    </comp>
-    <comp lib="6" loc="(1834,1153)" name="Text">
+    <comp lib="6" loc="(1830,1150)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="text" val="Register B"/>
+    </comp>
+    <comp lib="6" loc="(1830,1280)" name="Text">
+      <a name="font" val="SansSerif plain 12"/>
+      <a name="text" val="ALU"/>
     </comp>
     <comp lib="6" loc="(1835,1020)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="text" val="Output Register "/>
     </comp>
-    <comp lib="6" loc="(372,529)" name="Text">
-      <a name="font" val="SansSerif plain 12"/>
-      <a name="halign" val="right"/>
-      <a name="text" val="ir oe"/>
-    </comp>
-    <comp lib="6" loc="(374,507)" name="Text">
+    <comp lib="6" loc="(370,505)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="halign" val="right"/>
       <a name="text" val="ir we"/>
     </comp>
-    <comp lib="6" loc="(377,365)" name="Text">
+    <comp lib="6" loc="(370,525)" name="Text">
+      <a name="font" val="SansSerif plain 12"/>
+      <a name="halign" val="right"/>
+      <a name="text" val="ir oe"/>
+    </comp>
+    <comp lib="6" loc="(375,365)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="halign" val="right"/>
       <a name="text" val="pc_oe"/>
     </comp>
-    <comp lib="6" loc="(377,424)" name="Text">
+    <comp lib="6" loc="(375,420)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="halign" val="right"/>
       <a name="text" val="ram oe"/>
     </comp>
-    <comp lib="6" loc="(377,484)" name="Text">
+    <comp lib="6" loc="(375,480)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="halign" val="right"/>
       <a name="text" val="mbr oe"/>
     </comp>
-    <comp lib="6" loc="(377,544)" name="Text">
+    <comp lib="6" loc="(375,540)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="halign" val="right"/>
       <a name="text" val="mar we"/>
     </comp>
-    <comp lib="6" loc="(377,564)" name="Text">
+    <comp lib="6" loc="(375,560)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="halign" val="right"/>
       <a name="text" val="mar oe"/>
     </comp>
-    <comp lib="6" loc="(377,584)" name="Text">
+    <comp lib="6" loc="(375,580)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="halign" val="right"/>
       <a name="text" val="ALU oe"/>
     </comp>
-    <comp lib="6" loc="(380,466)" name="Text">
-      <a name="font" val="SansSerif plain 12"/>
-      <a name="halign" val="right"/>
-      <a name="text" val="mbr_ibe"/>
-    </comp>
-    <comp lib="6" loc="(382,409)" name="Text">
+    <comp lib="6" loc="(380,405)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="halign" val="right"/>
       <a name="text" val="ram we"/>
     </comp>
-    <comp lib="6" loc="(382,444)" name="Text">
+    <comp lib="6" loc="(380,440)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="halign" val="right"/>
       <a name="text" val="mbr we"/>
     </comp>
-    <comp lib="6" loc="(382,604)" name="Text">
+    <comp lib="6" loc="(380,465)" name="Text">
+      <a name="font" val="SansSerif plain 12"/>
+      <a name="halign" val="right"/>
+      <a name="text" val="mbr_ibe"/>
+    </comp>
+    <comp lib="6" loc="(380,600)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="halign" val="right"/>
       <a name="text" val="Reg_A we"/>
     </comp>
-    <comp lib="6" loc="(382,629)" name="Text">
+    <comp lib="6" loc="(380,625)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="halign" val="right"/>
       <a name="text" val="Reg_B we"/>
     </comp>
-    <comp lib="6" loc="(402,384)" name="Text">
+    <comp lib="6" loc="(400,380)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="halign" val="right"/>
       <a name="text" val="pc_count_enable"/>
     </comp>
-    <comp lib="6" loc="(407,649)" name="Text">
+    <comp lib="6" loc="(405,645)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="halign" val="right"/>
       <a name="text" val="Output register Oe"/>
     </comp>
-    <comp lib="6" loc="(412,664)" name="Text">
+    <comp lib="6" loc="(410,660)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="halign" val="right"/>
       <a name="text" val="Output register we"/>
